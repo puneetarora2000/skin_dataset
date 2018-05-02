@@ -1,0 +1,319 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\62.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\63.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\64.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\65.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\66.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\67.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\68.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\69.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\70.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\71.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\72.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\73.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\74.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\75.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\76.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\77.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\78.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\79.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Bowen's Disease', 
+	'E:\\thesis\\traindatabase\\80.jpg', 
+	'Often there are no symptoms, although the surface crusting may catch on clothing.', 
+	'Yes. As Bowen’s disease is confined to the surface of the skin, there are a variety of ways in which this can be cured.', 
+	'Bowen’s disease is also known as intraepidermal squamous cell carcinoma, and is a growth of cancerous cells that is confined to the outer layer of the skin. It is not a serious condition, and its importance rests on the fact '
+	);
+
+
+
+

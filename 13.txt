@@ -1,0 +1,240 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\179.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\180.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\181.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\182.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\183.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\184.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\185.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\186.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\187.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\188.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\189.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\190.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\191.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\192.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\193.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Herpes Simplex', 
+	'E:\\thesis\\traindatabase\\194.jpg', 
+	'The very first infection is often un-noticed as it may only produce a short-lived redness of the skin. Sometimes, however, a first infection can make a person feel very unwell with a temperature, swollen lymph glands and sore', 
+	'Symptoms clear in a few days or weeks, with or without treatment, though the virus will remain in a dormant state in the body.  In a majority of patients, recurrent symptoms are mild and infrequent, or do not happen at all.  ', 
+	'Herpes simplex is an infection of the skin with the herpes simplex virus. This can be caught from another person after direct skin-to-skin contact, mouth contact, or sexual contact.');
+

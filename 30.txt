@@ -1,0 +1,226 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\443.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\444.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\445.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\446.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\447.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\448.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\449.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\450.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\451.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\452.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\453.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\454.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\455.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\456.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Squamous Cell Carcinoma', 
+	'E:\\thesis\\traindatabase\\457.jpg', 
+	'A squamous cell carcinoma usually appears as a scaly or crusty area of skin, with a red, inflamed base.', 
+	'Yes, it can be cured. squamous cell carcinomas can be cured  if  they are detected early.', 
+	'There are two main categories of skin cancer: melanomas and non-melanoma skin cancers. Squamous cell carcinoma is one of the non-melanoma skin cancers.');
+

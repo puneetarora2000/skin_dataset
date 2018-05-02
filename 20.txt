@@ -1,0 +1,285 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\287.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\288.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\289.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\290.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\291.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\292.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\293.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\294.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\295.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\296.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\297.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\298.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\299.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\300.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\301.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\302.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\303.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\304.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Lichen Planus', 
+	'E:\\thesis\\traindatabase\\305.jpg', 
+	' Lichen planus on the skin is usually itchy. The rash is made up of shiny, 3-5mm, slightly raised purple-red spots. ', 
+	' No it cannot be cured, treatment damps it down but does not switch it off. However, lichen planus usually goes away by itself. ', 
+	'Lichen planus is a fairly common, itchy, non-infectious type of rash that usually occurs in adults.');
+

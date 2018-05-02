@@ -1,0 +1,224 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\164.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\165.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\166.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\167.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\168.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\169.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\170.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\171.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\172.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\173.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\174.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\175.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\176.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\177.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hailey-Hailey disease', 
+	'E:\\thesis\\traindatabase\\178.jpg', 
+	'Affected skin may become uncomfortable and itchy if the skin surfaces are continually rubbing against each other, such as in the groin when walking. Outbreaks tend to settle down in a few days with appropriate treatment.', 
+	'No. The underlying genetic defect cannot be altered; however, treatment does help and long remissions are common.', 
+	'Hailey-Hailey disease is also known as familial benign chronic pemphigus. It is a rare inherited skin condition, in which red scaly areas or small blisters appear at sites of friction. ');

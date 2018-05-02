@@ -1,0 +1,258 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\99.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\100.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\101.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\102.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\103.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\104.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\105.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\106.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\107.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\108.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\109.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\110.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\111.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\112.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\113.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\114.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Dariers Disease', 
+	'E:\\thesis\\traindatabase\\115.jpg', 
+	'Itching is very common.  The affected skin may smell unpleasant, particularly in moist areas.', 
+	'No, there is no cure, but there are many ways of helping it.', 
+	'It is a rare inherited skin condition, in which the skin in certain areas develops large numbers of small brownish warty bumps.');
+

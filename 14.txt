@@ -1,0 +1,254 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\195.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\196.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\197.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\198.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\199.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\200.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\201.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\202.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\203.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\204.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\205.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\206.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\207.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\208.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\209.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\210.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hidradenitis Supparativa', 
+	'E:\\thesis\\traindatabase\\211.jpg', 
+	' Hidradenitissuppurativa can be itchy, but is usually painful, and the lumps hurt if they are pressed. The severity of hidradenitissuppurativa varies from person to person. The main areas to be affected are the armpits', 
+	' No cure, it usually persists for many years, but may disappear eventually. Treatment usually helps even though it cannot switch the hidradenitis off once and for all.  ', 
+	'Hidradenitis suppurativa is a chronic and stubborn disease centred on inflammation of the large specialised sweat glands (apocrine glands) that are found mainly in the armpits and groins. These areas show a distinctive mixture.');

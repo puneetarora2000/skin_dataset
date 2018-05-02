@@ -1,0 +1,255 @@
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\397.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\398.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\399.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\400.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\401.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\402.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\403.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\404.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\405.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\406.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\407.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\408.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\409.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\410.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Rosacea', 
+	'E:\\thesis\\traindatabase\\411.jpg', 
+	'The skin of the face feels sensitive, and can burn or sting. Flushing (the face becomes bright red) adds to the embarrassment caused by the rash.', 
+	'  No treatment can be guaranteed to switch rosacea off forever.', 
+	'Rosacea is a common rash, found on the central part of the face, usually of a middle-aged person. A tendency to flush easily is followed by persistent redness on the cheeks, chin etc');
+
+

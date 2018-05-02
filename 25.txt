@@ -1,0 +1,255 @@
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\367.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\368.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\369.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\370.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\371.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\372.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\373.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\374.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\375.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\376.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\377.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\378.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\379.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\380.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Psoriasis', 
+	'E:\\thesis\\traindatabase\\381.jpg', 
+	' Psoriasis can itch and the affected skin can split, which may be painful.Some people with psoriasis may develop stiff and painful joints.', 
+	' No. However, treatment to control the signs and symptoms is usually effective. The skin becomes less scaly and may then look completely normal.', 
+	'Psoriasis is a common skin problem affecting about 2% of the population. It occurs equally in men and women, at any age, and tends to come and go unpredictably.');
+
+

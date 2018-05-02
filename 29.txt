@@ -1,0 +1,213 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\428.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\429.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\430.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\431.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\432.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\433.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\434.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\435.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\436.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\437.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\438.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\439.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\440.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\441.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Shingles', 
+	'E:\\thesis\\traindatabase\\442.jpg', 
+	'Pain is the first and predominant symptom and sometimes there is also a tingling or burning sensation.', 
+	'Shingles resolves on its own within a few weeks. Oral medication  can make the rash of shingles clear more quickly and can reduce its unpleasant effects.', 
+	'Shingles (also known as herpes zoster) is a painful blistering rash caused by the same.');

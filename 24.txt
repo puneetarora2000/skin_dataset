@@ -1,0 +1,272 @@
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\351.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\352.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\353.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\354.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\355.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\356.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\357.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\358.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\359.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\360.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\361.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\362.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\363.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\364.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\365.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('PLE', 
+	'E:\\thesis\\traindatabase\\366.jpg', 
+	' The rash of PLE can itch or feel like a burn.PLE can be embarrassing as it comes up on exposed areas.', 
+	' No treatment will get rid of PLE forever. However, many people remain clear if they avoid exposure to the sun and use an effective sunscreen.', 
+	'The term ‘light eruption’ is easy to understand - a rash that comes up after exposure to light. ‘Polymorphic’ is more difficult. ‘Poly’ means ‘many’, and ‘morphic’ means ‘forms’.');
+
+

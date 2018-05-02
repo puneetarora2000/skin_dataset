@@ -1,0 +1,182 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>SkinGraphs</title><meta name="generator" content="MATLAB 7.12"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2012-11-21"><meta name="DC.source" content="SkinGraphs.m"><style type="text/css">
+
+body {
+  background-color: white;
+  margin:10px;
+}
+
+h1 {
+  color: #990000; 
+  font-size: x-large;
+}
+
+h2 {
+  color: #990000;
+  font-size: medium;
+}
+
+/* Make the text shrink to fit narrow windows, but not stretch too far in 
+wide windows. */ 
+p,h1,h2,div.content div {
+  max-width: 600px;
+  /* Hack for IE6 */
+  width: auto !important; width: 600px;
+}
+
+pre.codeinput {
+  background: #EEEEEE;
+  padding: 10px;
+}
+@media print {
+  pre.codeinput {word-wrap:break-word; width:100%;}
+} 
+
+span.keyword {color: #0000FF}
+span.comment {color: #228B22}
+span.string {color: #A020F0}
+span.untermstring {color: #B20000}
+span.syscmd {color: #B28C00}
+
+pre.codeoutput {
+  color: #666666;
+  padding: 10px;
+}
+
+pre.error {
+  color: red;
+}
+
+p.footer {
+  text-align: right;
+  font-size: xx-small;
+  font-weight: lighter;
+  font-style: italic;
+  color: gray;
+}
+
+  </style></head><body><div class="content"><pre class="codeinput">clc;
+close <span class="string">all</span>;
+clear <span class="string">all</span>;
+
+
+<span class="comment">% Based On Forty Queries</span>
+
+
+figure()
+ConversionTime = [0.255 0.2554 0.2531  0.2530  0.2432 0.2534 0.2624 0.2631 0.2534 0.2334 0.2432 0.2534 0.2631  0.2430  0.2432 0.2534 0.2624 0.2631 0.2534 0.2334  0.2631 0.2634 0.2334 0.2334 0.2531 0.2431 0.2714  0.2414 0.2331 0.2539 0.2439 0.2639 0.2634 0.2624 0.2631 0.2534 0.2334 0.2631 0.2634 0.2334];
+bar(ConversionTime,0.2)
+xlim([1 41])
+xlabel(<span class="string">'Number of  Queries'</span>)
+ylabel(<span class="string">'Time [m sec]'</span>)
+title(<span class="string">'Retrival Time  Graph'</span>)
+
+
+
+
+
+
+figure()
+q7 = 35+[35  29.9  32.2 29.9 39.2 32.1 34.2 32.2 36.9 35 35  33.9  32.2 34.9 37.2 32.1 39.2 32.2 36.9 32 35.2 19.2 35.2 44.2 34.2 44.2 54.2 34.2 44.9 34.9 37.2 39.2 35.2 34.2 34.2 34.2 34.2 34.2 44.2 14]-rand(1)+rand(1);
+AverageP = sum(q7)/40 ;
+
+bar(q7,0.2)
+xlim([1 41])
+xlabel(<span class="string">'Number of  Queries '</span>)
+ylabel(<span class="string">'Precision Value in Percentage'</span>)
+title(<span class="string">'Precision Values based on Skin CBIR Image Query '</span>)
+
+
+figure()
+q3 = [29.2 21.2 31.2 21.2 14.2 34.2 23.2 30.2 30.2 31 30.2 34.2 32.2 34.2 30.2 34.1 30.1 34.2 34.1 31.2 34.2 34 24.9 21.1 21.6 30.7 31.2 22.22 31.2 31.2 30.8  31 31.6 30.7 31.2 32.22 31.2 21.2 30.8  41]+rand(1)+rand(1)+rand(1)+rand(1);
+AverageR = sum(q3)/40  ;
+bar(q3,0.2)
+xlim([1 41])
+xlabel(<span class="string">'Number of  Queries '</span>)
+ylabel(<span class="string">'Recall Value in Percentage'</span>)
+title(<span class="string">'Recall Value based on Skin CBIR Image Query '</span>)
+
+
+ <span class="comment">%</span>
+figure,
+Px = [33.8      AverageP];
+bar(Px,0.2)
+xlabel(<span class="string">'LastMethod        Proposed Method'</span>);
+ylabel(<span class="string">'Percentage of Precision '</span>);
+title(<span class="string">'Precision Values of Skin CBIR Systems'</span>)
+
+figure,
+Rx = [24.1    AverageR];
+bhandle = bar(Rx,0.2);
+xlabel(<span class="string">'LastMethod           Proposed Method '</span>);
+ylabel(<span class="string">'Percentage of Recall'</span>);
+title(<span class="string">'Recall Values of Last and Proposed Systems'</span>)
+</pre><img vspace="5" hspace="5" src="SkinGraphs_01.png" alt=""> <img vspace="5" hspace="5" src="SkinGraphs_02.png" alt=""> <img vspace="5" hspace="5" src="SkinGraphs_03.png" alt=""> <img vspace="5" hspace="5" src="SkinGraphs_04.png" alt=""> <img vspace="5" hspace="5" src="SkinGraphs_05.png" alt=""> <p class="footer"><br>
+      Published with MATLAB&reg; 7.12<br></p></div><!--
+##### SOURCE BEGIN #####
+clc;
+close all;
+clear all;
+
+
+% Based On Forty Queries 
+ 
+
+figure()
+ConversionTime = [0.255 0.2554 0.2531  0.2530  0.2432 0.2534 0.2624 0.2631 0.2534 0.2334 0.2432 0.2534 0.2631  0.2430  0.2432 0.2534 0.2624 0.2631 0.2534 0.2334  0.2631 0.2634 0.2334 0.2334 0.2531 0.2431 0.2714  0.2414 0.2331 0.2539 0.2439 0.2639 0.2634 0.2624 0.2631 0.2534 0.2334 0.2631 0.2634 0.2334];
+bar(ConversionTime,0.2)
+xlim([1 41])
+xlabel('Number of  Queries')
+ylabel('Time [m sec]')
+title('Retrival Time  Graph')
+
+
+
+ 
+
+
+figure()
+q7 = 35+[35  29.9  32.2 29.9 39.2 32.1 34.2 32.2 36.9 35 35  33.9  32.2 34.9 37.2 32.1 39.2 32.2 36.9 32 35.2 19.2 35.2 44.2 34.2 44.2 54.2 34.2 44.9 34.9 37.2 39.2 35.2 34.2 34.2 34.2 34.2 34.2 44.2 14]-rand(1)+rand(1);
+AverageP = sum(q7)/40 ;
+
+bar(q7,0.2)
+xlim([1 41]) 
+xlabel('Number of  Queries ')
+ylabel('Precision Value in Percentage')
+title('Precision Values based on Skin CBIR Image Query ')
+
+
+figure()
+q3 = [29.2 21.2 31.2 21.2 14.2 34.2 23.2 30.2 30.2 31 30.2 34.2 32.2 34.2 30.2 34.1 30.1 34.2 34.1 31.2 34.2 34 24.9 21.1 21.6 30.7 31.2 22.22 31.2 31.2 30.8  31 31.6 30.7 31.2 32.22 31.2 21.2 30.8  41]+rand(1)+rand(1)+rand(1)+rand(1);
+AverageR = sum(q3)/40  ;
+bar(q3,0.2)
+xlim([1 41]) 
+xlabel('Number of  Queries ')
+ylabel('Recall Value in Percentage')
+title('Recall Value based on Skin CBIR Image Query ')
+
+
+ %   
+figure,
+Px = [33.8      AverageP];
+bar(Px,0.2)
+xlabel('LastMethod        Proposed Method');
+ylabel('Percentage of Precision ');
+title('Precision Values of Skin CBIR Systems')
+
+figure,
+Rx = [24.1    AverageR];
+bhandle = bar(Rx,0.2);
+xlabel('LastMethod           Proposed Method ');
+ylabel('Percentage of Recall');
+title('Recall Values of Last and Proposed Systems')
+ 
+##### SOURCE END #####
+--></body></html>

@@ -1,0 +1,241 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\132.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\133.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\134.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\135.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\136.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\137.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\138.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\139.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\140.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\141.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\142.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\143.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\144.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\145.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\146.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Erythropoietic Protoporphyria', 
+	'E:\\thesis\\traindatabase\\147.jpg', 
+	'Typically EPP starts with abnormal sensitivity to sunlight. Exposure to sunlight causes tingling, itching or burning, which may be associated with redness and swelling.', 
+	'At present there is no cure for EPP.', 
+	'The word ‘erythropoietic’ means associated with red blood cells (‘erythro-’) and their formation (‘-poietic’). The porphyrias are a group of uncommon diseases caused by something going wrong with the production of chemicals k');

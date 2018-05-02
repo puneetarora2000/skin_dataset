@@ -1,0 +1,234 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\227.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\228.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\229.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\230.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\231.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\232.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\233.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\234.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\235.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\236.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\237.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\238.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\239.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\240.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hyperhidrosis', 
+	'E:\\thesis\\traindatabase\\241.jpg', 
+	'Visible sweat, wet clothes and a clammy handshake can be embarrassing, and can interfere with work and personal relationships.', 
+	'When there is an underlying cause which can be treated, the hyperhidrosis can be cured. Surgical treatment can cure some people, but is often associated with side effects and is therefore considered only if other modalities. ', 
+	'Hyperhidrosis means excessive sweating. It can be localised or affect the whole body.');
+
+
+

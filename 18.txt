@@ -1,0 +1,234 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\257.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\258.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\259.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\260.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\261.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\262.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\263.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\264.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\265.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\266.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\267.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\268.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\269.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\270.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Impetigo', 
+	'E:\\thesis\\traindatabase\\271.jpg', 
+	'Impetigo can be sore and itchy but does not usually make you feel ill. Impetigo can crop up anywhere, but is most common on exposed areas of skin such as the face - around the nose and mouth. ', 
+	'Yes it can be cured. Usually it clears quickly. ', 
+	'Impetigo is a bacterial infection of the surface of the skin. It is the most common skin infection seen in young children.');
+
+

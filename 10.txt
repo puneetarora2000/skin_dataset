@@ -1,0 +1,240 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\148.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\149.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\150.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\151.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\152.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\153.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\154.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\155.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\156.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\157.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\158.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\159.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\160.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\161.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\162.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Fungal infection of the nails', 
+	'E:\\thesis\\traindatabase\\163.jpg', 
+	' At the start, there are usually no symptoms. Later the nails may become so thick that they hurt when they press on the inside of a shoe. They are then hard to trim.', 
+	'Yes - usually they can be cured.', 
+	'Fungal infections of the nails are also known as onychomycosis, as tineaunguium, and as ringworm of the nails. The fungi in question are usually those that cause athlete’s foot – a common infection of the skin of the feet.');

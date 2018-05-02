@@ -1,0 +1,255 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\321.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\322.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\323.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\324.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\325.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\326.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\327.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\328.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\329.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\330.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\331.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\332.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\333.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\334.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pemphigus Vulgaris', 
+	'E:\\thesis\\traindatabase\\335.jpg', 
+	' The raw unhealing erosions are painful and can disturb sleep.', 
+	'  No it cannot be cured, it will not clear without treatment. There will be times when it flares up, and others when it gets better. ', 
+	' Pemphigus vulgaris is a rare autoimmune disease that causes severe blistering of the skin and of the mucous membranes lining the mouth, nose, throat and genitals.');
+
+
+

@@ -1,0 +1,256 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\116.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\117.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\118.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\119.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\120.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\121.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\122.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\123.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\124.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\125.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\126.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\127.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\128.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\129.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\130.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('EpidermolysysBullosa Simplex', 
+	'E:\\thesis\\traindatabase\\131.jpg', 
+	'The primary symptom of EB simplex is blistering, which is often painful and which can sometimes significantly affect daily activities of living and interfere with school and work.', 
+	'In the past 20 years, there has been exciting and rapid progress in the understanding of EB simplex, but at the moment there is no cure. Several laboratories around the world are exploring strategies that they hope will lead ', 
+	'Epidermolysisbullosa (EB) simplex is a rare inherited skin disorder which causes blistering.  In the most common form, blisters tend to be confined to the palms and soles, although occasionally they arise in the mouth');

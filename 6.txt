@@ -1,0 +1,334 @@
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\81.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\82.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\83.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\84.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\85.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\86.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\87.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\88.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\89.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\90.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\91.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\92.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\93.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\94.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\95.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\96.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\97.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Contact Dermatitis', 
+	'E:\\thesis\\traindatabase\\98.jpg', 
+	'Itching of the skin is the commonest symptom, and this can be intense. Sometimes the skin becomes sore, and painful cracks can develop over the backs of the fingers when dermatitis affects the hands.', 
+	'Yes - if you can greatly reduce your contact with irritants, then your irritant contact dermatitis will improve or clear.If patch testing shows that you are allergic to a specific allergen', 
+	'The words ‘dermatitis’ and ‘eczema’ are interchangeable and mean the same thing.  Contact dermatitis, therefore, is the same thing as contact eczema.  For simplicity we will stick to the word ‘dermatitis’ in this leaflet.');
+
+

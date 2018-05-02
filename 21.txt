@@ -1,0 +1,225 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\306.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\307.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\308.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\309.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\310.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\311.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\312.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\313.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\314.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\315.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\316.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\317.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\318.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\319.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Melanoma', 
+	'E:\\thesis\\traindatabase\\320.jpg', 
+	' Melanomas may not cause any symptoms at all, but tingling or itching may occur at an early stage.', 
+	' Yes, however it is crucial for a melanoma to be removed as early as possible before it has had time to spread out. ', 
+	' Cutaneous malignant melanoma is a cancer of the pigment cells of the skin. If it is treated early, the outlook is usually good.');
+

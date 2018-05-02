@@ -1,0 +1,255 @@
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\382.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\383.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\384.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\385.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\386.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\387.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\388.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\389.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\390.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\391.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\392.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\393.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\394.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\395.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Pyoderma Gangrenosum', 
+	'E:\\thesis\\traindatabase\\396.jpg', 
+	'In pyodermagangrenosum, there is usually a single large ulcer but occasionally there may be multiple ulcers. Ulcers may become infected.', 
+	'  There is no cure.', 
+	'Pyodermagangrenosum is a rare treatable cause of skin ulcers. It is not related to gangrene. Pyodermagangrenosum is not ‘catching’ and cannot be transferred from or to another person by touching or in any other way.');
+
+

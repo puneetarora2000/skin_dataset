@@ -1,0 +1,272 @@
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\412.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\413.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\414.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\415.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\416.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\417.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\418.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\419.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\420.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\421.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\422.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\423.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\424.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\425.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\426.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Scabies', 
+	'E:\\thesis\\traindatabase\\427.jpg', 
+	' Itching is the main symptom of scabies, usually starting about a month after the mites were picked up.  The itching affects the body and limbs.', 
+	' If it is not treated, scabies lasts for months or even years; but with the right treatment, it clears up quickly and completely.', 
+	' Scabies is a common and very itchy skin condition caused by human scabies mites. It can affect people of any age but is most common in the young and the elder.');
+
+

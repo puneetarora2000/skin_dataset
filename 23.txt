@@ -1,0 +1,271 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\336.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\337.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\338.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\339.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\340.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\341.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\342.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\343.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\344.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\345.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\346.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\347.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\348.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\349.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Plantar Warts (Verrucas)', 
+	'E:\\thesis\\traindatabase\\350.jpg', 
+	' Some plantar warts are uncomfortable, particularly if they are on a weight-bearing area when it may feel like having a stone in your shoe.', 
+	'  Yes, but no single treatment can be guaranteed to be effective in every case.', 
+	'Warts are localised thickenings of the skin, and the term ‘plantar warts’ is used for those that occur on the soles of the feet (the ‘plantar’ surface). They are also known as verrucas.');
+
+
+
+
+

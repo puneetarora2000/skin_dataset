@@ -1,0 +1,239 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\242.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\243.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\244.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\245.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\246.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\247.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\248.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\249.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\250.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\251.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\252.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\253.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\254.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\255.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Ichthyosis', 
+	'E:\\thesis\\traindatabase\\256.jpg', 
+	'Inherited ichthyosis is due to a single genetic flaw which is passed on either from one parent or both parents. ', 
+	'It can be mild as with ichthyosis vulgaris, or severe. ', 
+	'the term used to describe continual and widespread scaling of the skin.');
+
+

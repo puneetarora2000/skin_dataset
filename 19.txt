@@ -1,0 +1,216 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\272.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\273.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\274.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\275.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\276.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\277.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\278.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\279.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\280.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\281.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\282.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\283.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\284.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\285.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Keloids', 
+	'E:\\thesis\\traindatabase\\286.jpg', 
+	' Usually there are no symptoms; but some are tender, painful, itchy, or cause a burning sensation. The main problem is that their appearance may cause embarrassment. ', 
+	'It is unusual for a keloid to be cured after treatment. The main problem is that cutting a keloid out often leads to an even bigger one forming later in the same place. ', 
+	'When a wound heals, it leaves a scar. A keloid is a special type of scar: one that grows too much and can even become larger than the original wound.');
+

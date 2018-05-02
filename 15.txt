@@ -1,0 +1,230 @@
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\212.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\213.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\214.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\215.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\216.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\217.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\218.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\219.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\220.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\221.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\222.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\223.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\224.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\225.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
+INSERT INTO `skin`.`skin_diseases_images` 
+	( 
+	`image_name`, 
+	`image_path`, 
+	`symptoms`, 
+	`cure`, 
+	`description`
+	)
+	VALUES
+	('Hirsutism', 
+	'E:\\thesis\\traindatabase\\226.jpg', 
+	' Having too much hair can be highly embarrassing and cause great distress. The excess of thick, often dark, hair may be seen on the face, chest, abdomen and upper back.', 
+	' Although a ‘cure’ is unlikely, local areas of excessive hair growth can often be cleared by electrolysis or laser therapy. The treatment of hirsutism with medication is usually less satisfactory as the problem often comes back. ', 
+	'Hirsutism is the term used when a woman grows too much body or facial hair in a pattern seen normally occurring only in men.');
+
